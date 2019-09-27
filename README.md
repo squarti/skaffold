@@ -1,7 +1,7 @@
 <!-- github does not support `width` with markdown images-->
 <img src="logo/skaffold.png" width="220">
 
-## Community
+## Community SSQ
 
 **We'd love to hear from you!**
 
